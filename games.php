@@ -3,6 +3,9 @@
     
     // Create a PHP variable named title and assign it the value "Marioclub". Remember to terminate each PHP statement with a semicolon
   
+$title = "Marioclub";
+$page = "games.php";
+include 'header.php';
 
     // Create a PHP variable named page and assign it the value "games". Remember to terminate each PHP statement with a semicolon
    
@@ -26,6 +29,6 @@
   </main>
 <?php 
     // In between opening PHP tag and closing PHP do following
-
+include 'footer.php';
     // Now use the "include" function in PHP and include "footer.php". Remember to terminate each PHP statement with a semicolon
 ?>
