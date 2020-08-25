@@ -1,4 +1,13 @@
-<?php 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    
+
+   <?php 
     // In between opening PHP tag and closing PHP do following
     
     // Create a PHP variable named title and assign it the value "Marioclub". Remember to terminate each PHP statement with a semicolon
