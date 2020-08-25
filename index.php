@@ -3,10 +3,12 @@
     
     // Create a PHP variable named title and assign it the value "Marioclub". Remember to terminate each PHP statement with a semicolon
   
+$title = "Marioclub";
 
+$page = "index";
     // Create a PHP variable named page and assign it the value "index". Remember to terminate each PHP statement with a semicolon
    
-
+include 'header.php';
     // Now use the "include" function in PHP where you include header.php. Remember that terminate each PHP statement with a semicolon
 
 ?>
@@ -21,6 +23,8 @@
     </ul>
   </main>
 <?php 
+
+include 'footer.php';
     // In between opening PHP tag and closing PHP do following
 
     // Now use the "include" function in PHP and include "footer.php". Remember to terminate each PHP statement with a semicolon
